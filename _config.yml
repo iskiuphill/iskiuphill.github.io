@@ -30,8 +30,14 @@ facebook_username: iskiuphill
 
 # Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-analytics
+
+jekyll_analytics:
+        GoogleAnalytics:
+                id: UA-156935589-1
+                anonymizeIp: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
