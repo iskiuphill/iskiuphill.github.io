@@ -21,7 +21,7 @@
 title: I Ski Uphill
 email: contact@iskiuphill.com
 description: >- # this means to ignore newlines until "baseurl:"
-        A simple page and soon to be app that will bring together uphill policy information, weather, and traffic information for ski resorts.
+        A simple page and soon to be app that will bring together uphill policy information, weather, and traffic information for ski resorts. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iskiuphill.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
